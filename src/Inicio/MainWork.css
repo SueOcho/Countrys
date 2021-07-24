@@ -1,0 +1,20 @@
+.work{
+    margin-top: 200px;
+    margin-bottom: 200px;
+}
+.work p{
+    color: #27ae60;
+}
+.work h2{
+    font-weight: 600;
+}
+.work input{
+    margin-top: 30px;
+}
+.work a{
+    background-color: #27ae60;
+    padding: 10px;
+    text-decoration:  none;
+    color: #ffffff;
+    border-radius: 6px;
+}

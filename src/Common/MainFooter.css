@@ -4,3 +4,26 @@
     padding-top: 45px;
     padding-bottom: 45px;
 }
+.x span{
+    margin-bottom: 30px;
+    padding-bottom: 10px;
+}
+.x p{
+        color: gray !important;
+}
+footer p{
+    color: gray;
+    font-weight: 300;
+    padding-top: 10px;
+}
+
+footer  span{
+    color: black;
+    font-weight: 700;
+    margin-bottom: 10px;
+
+}
+.footerx{
+background-image: url('../assets/footer/home-startup-footer-down-bg.jpg');
+background-position: right;
+}

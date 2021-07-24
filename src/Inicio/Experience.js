@@ -1,6 +1,8 @@
 import React from 'react';
-import './Experience.css';
 import image1 from '../assets/experience/home-startup-about-img.jpg';
+
+
+import './Experience.css';
 
 
 
@@ -32,7 +34,7 @@ function Historia(props) {
                     </div>
                 </div>
             </div>
-            <div className="container">
+            <div className="container ">
                 <div className="row justify-content-center">
                 <img src={image1} alt="chico"  className="imagen"/>
                 </div>

@@ -3,10 +3,56 @@ import './MainFooter.css';
 
 function MainFooter(props) {
     return (
-        <footer id="main-footer">
-            <div className="container">
-                2021 - Todos los derechos reservados
+        <footer id="main-footer ">
+            <div className="footerx">
+        <div className="container py-5 ">
+            <div className="row">
+                <div className="col-3">
+                    <div>
+                        <span>Company</span>
+                        <p>About company</p>
+                        <p>Our services</p>
+                        <p>Job opportunities</p>
+                        <p>Contact us</p>
+
+                    </div>
+                </div>
+                <div className="col-3">
+                    <div>
+                    <span>Customer</span>
+                        <p>Client support</p>
+                        <p>Pricing packages</p>
+                        <p>Company story</p>
+                        <p>Latest news</p>
+                    </div>
+                </div>
+                <div className="col-3">
+                    <div>
+                    <span>Resources</span>
+                        <p>Theme guide</p>
+                        <p>Support desk</p>
+                        <p>What we offer</p>
+                        <p>Company history</p>
+
+                    </div>
+                </div>
+                <div className="col-3">
+                    <div>
+                    <span>Services</span>
+                        <p>Brand experience</p>
+                        <p>E-commerce website</p>
+                        <p>Content writing</p>
+                        <p>Marketing strategy</p>
+                    </div>
+                </div>
             </div>
+
+        </div>
+
+        </div>
+        <div className="container py-5 my5 text-end">
+                <div>© 2021 Litho is Proudly Powered by ThemeZaa</div>
+        </div>
         </footer>
     );
 }

@@ -14,16 +14,16 @@ function Fichas(props) {
 
     const [ data, setData] = useState([])
     const [show, setShow] = useState(false);
-    const [ dataModal, setDataModal] = useState([]);
+    const [ dataModal] = useState([]);
 
     const handleClose = () => setShow(false);
-    const handleShow = () => setShow(true);
-
-    const showFormUpdate = (ciudad) => {
+/*     const handleShow = () => setShow(true);
+ */
+ /*    const showFormUpdate = (ciudad) => {
         setShow(true)
         setDataModal(ciudad)
     };
-
+ */
  
     console.log(data)
     useEffect(() => {

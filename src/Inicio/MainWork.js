@@ -23,7 +23,7 @@ function MainWork(props) {
 
                                 </div>
                                 <div className="col-7 pt-4 mt-3">
-                                <a href="">SUBSCRIBE NOW</a>
+                                <a href="/">SUBSCRIBE NOW</a>
                                 </div>
                             </div>
                         </div>

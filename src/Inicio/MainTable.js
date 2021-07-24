@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react';
-import Table from 'react-bootstrap/Table'
 import { getCiudad } from '../services/firebase';
 import './MainTable.css';
 

@@ -1,0 +1,13 @@
+.ba{
+    height: 80px !important;
+    margin-top: -80px;
+    background-color: black;
+
+}
+.bg-primary{
+    background-color: #f7e0e0 !important;
+    border-color: gray;
+}
+p{
+    font-weight: 600 !important;
+}

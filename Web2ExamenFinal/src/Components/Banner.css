@@ -1,0 +1,11 @@
+#panel{
+    margin-top: -170px;
+    margin-bottom: 100px;
+    height: 100vh;
+}
+#panel h3 p{
+    color: red;
+}
+.bax{
+    height: 80px !important;
+}

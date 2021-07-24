@@ -6,4 +6,44 @@
     margin-top: -50px;
 }
 
+
+.experience h1{
+    font-size: 300px;
+    font-weight: 600;
+    color: #27ae60;
+}
+.experience h2{
+color:#27ae60;
+font-size: 50px;
+font-weight: 600;
+}
+
+.experience h3{
+    margin-top: -50px;
+    padding-bottom: 60px;
+    font-weight: 600;
+    letter-spacing: 5px !important;
+
+}
+.experience span{
+    color:gray;
+
+}
+.experience p{
+    font-weight: 500;
+    
+
+}
 /* import banner3 from '../assets/banner/home-startup-slider-bg-03.jpg'; */
+
+.imagen{
+    margin-top: -100px;
+    width: 150px !important;
+    height: 140px !important;
+    background-color: #ffffff;
+    border-radius: 150px !important;
+    border: 10px solid white !important;
+
+        
+    
+}
